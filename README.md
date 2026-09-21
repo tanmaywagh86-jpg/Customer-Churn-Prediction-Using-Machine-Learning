@@ -89,14 +89,3 @@ This project demonstrates how machine learning can be applied to:
      
 5. Run all cells sequentially
 
-## 👤 Author
-
-#### Soundharya Sundaram Iyer
-#### Aspiring Data Scientist / Passionate about Machine Learning 
-
-### 📌 Feel free to connect with me on LinkedIn and explore more projects on GitHub.
-LinkedIn : https://www.linkedin.com/in/soundharyaiyer09
-
-Github : https://github.com/Soundharya09
-
-### If you like this project, feel free to ⭐ star it!!!!!
